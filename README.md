@@ -1,7 +1,16 @@
-## Hi there 👋
+## Salam Kenal
 
+
+Perkenalkan nama saya **Halwan Wijaya**.<br>
+
+Saya seorang **Mahasiswa** di *Universita Bina Insani*.<br>
+Saya tertarik dalam bidang 🔐**Cyber Security**, 🌐**Pengembangan Web**, dan 🤖**AI**.<br>
+
+Mari Terhubung dengan saya :<br>
+- [Linkedin](https://www.linkedin.com/in/halwan-wijaya-86623432a/)
+- [Github](https://github.com/halwanwijaya)
 <!--
-**halwanwijaya/halwanwijaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
